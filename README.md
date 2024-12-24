@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Junrapxng
 - 👀 I’m interested in Cyberscurity, Cloud Infrastructure, Full-Stack, Dev Web Application
 - 🌱 I’m currently learning vue.js
-- 💞️ I’m looking to collaborate on Exonmobil, CP All
+- 💞️ I’m looking to collaborate on Cybersecurity Field.
 - 📫 How to reach me => 6431501013@lamduan.mfu.ac.th
 - 😄 Language Coding: C#, Python, html, css, javscrip, sql, dart
 - ⚡ Fun fact: Awsome to Learning every day
